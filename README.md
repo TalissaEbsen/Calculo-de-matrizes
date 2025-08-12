@@ -20,4 +20,53 @@ Ele lê os dados das matrizes a partir de arquivos `.txt`, verifica se são quad
 ---
 
 ## 📂 Estrutura de Arquivos
+atividade_matrizes/
+├── matrizA.txt
+├── matrizB.txt
+└── multiplicacao_matrizes.py
+
+---
+
+## 📄 Arquivos de Exemplo
+
+**matrizA.txt**
+1 2 3
+4 5 6
+7 8 9
+
+**matrizB.txt**
+9 8 7
+6 5 4
+3 2 1
+
+---
+
+## 🚀 Como Executar
+
+### 1️⃣ Pré-requisitos
+- Python 3 instalado ([Download](https://www.python.org/downloads/))
+- VS Code ou outro editor de código
+
+### 2️⃣ Preparar o projeto
+
+- Clone este repositório com Git:
+  ```bash
+  git clone https://github.com/seu-usuario/multiplicacao-matrizes.git
+
+Ou crie manualmente uma pasta atividade_matrizes e coloque os arquivos dentro.
+
+### 3️⃣ Rodar o programa
+No terminal, navegue até a pasta do projeto:
+
+cd caminho/para/atividade_matrizes
+ 
+- Execute o script Python:
+```bash
+python multiplicacao_matrizes.py
+```
+
+---
+
+## 🧑‍💻 Autor
+Desenvolvido por Talissa Ebsen ✨
 
