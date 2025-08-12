@@ -57,9 +57,9 @@ Ou crie manualmente uma pasta atividade_matrizes e coloque os arquivos dentro.
 
 ### 3️⃣ Rodar o programa
 No terminal, navegue até a pasta do projeto:
-
+```bash
 cd caminho/para/atividade_matrizes
- 
+ ```
 - Execute o script Python:
 ```bash
 python multiplicacao_matrizes.py
@@ -67,6 +67,6 @@ python multiplicacao_matrizes.py
 
 ---
 
-## 🧑‍💻 Autor
+## 👩💻 Autora
 Desenvolvido por Talissa Ebsen ✨
 
